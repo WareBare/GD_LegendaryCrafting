@@ -59,6 +59,7 @@ I made this mod when I was working on a few other features for my Modding Tools,
 
 WanezToolsGD v0.3.0 is required for this. (not released at the time of the release of this mod)
 
+<pre>
 <a name="intro-structure"></a>
 <a name="1.4"></a>
 ## 1.4 - Content Structure
@@ -77,7 +78,8 @@ WanezToolsGD v0.3.0 is required for this. (not released at the time of the relea
 		|-- wanez
 		|	|-- <a href="#2.2">conversations</a>
 		|	|-- <a href="#2.2">scripts</a>
-
+</pre>
+		
 ---
 <a name="feat"></a>
 <a name="2"></a>
