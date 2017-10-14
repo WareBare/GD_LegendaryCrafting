@@ -1,0 +1,4 @@
+# Global Tags for WanezMods
+
+tagWzLc_NPC_Blacksmith_NAME=Legendary
+tagWzLc_NPC_Blacksmith_DESC=Blacksmith
