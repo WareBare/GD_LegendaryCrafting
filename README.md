@@ -59,25 +59,25 @@ I made this mod when I was working on a few other features for my Modding Tools,
 
 WanezToolsGD v0.3.0 is required for this. (not released at the time of the release of this mod)
 
-<pre>
 <a name="intro-structure"></a>
 <a name="1.4"></a>
 ## 1.4 - Content Structure
-	|-- database
-		|-- mod_wanez
-		|	|-- misc
-		|	|	|-- <a href="#2.2">npcs</a>
-		|	|-- _lc
-		|	|	|-- <a href="#2.3">blueprints</a>
-		|-- <a href="#4.1">records</a>
-			|-- <a href="#2.2">creatures</a>
-			|-- <a href="#4.1">omega</a>
-			|-- <a href="#4.1">ui</a>
-	|-- source
-		|-- <a href="#4.1">items</a>
-		|-- wanez
-		|	|-- <a href="#2.2">conversations</a>
-		|	|-- <a href="#2.2">scripts</a>
+<pre>
+|-- database
+	|-- mod_wanez
+	|	|-- misc
+	|	|	|-- <a href="#2.2">npcs</a>
+	|	|-- _lc
+	|	|	|-- <a href="#2.3">blueprints</a>
+	|-- <a href="#4.1">records</a>
+		|-- <a href="#2.2">creatures</a>
+		|-- <a href="#4.1">omega</a>
+		|-- <a href="#4.1">ui</a>
+|-- source
+	|-- <a href="#4.1">items</a>
+	|-- wanez
+	|	|-- <a href="#2.2">conversations</a>
+	|	|-- <a href="#2.2">scripts</a>
 </pre>
 		
 ---
